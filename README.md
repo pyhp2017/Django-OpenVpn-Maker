@@ -117,6 +117,6 @@ If you have all the settings set up correctly, you can create an Openvpn client 
 
 # Screenshots:
 
-![User Creation](https://google.com  "User Create")
+![User Creation](https://github.com/pyhp2017/Django-OpenVpn-Maker/blob/main/screenshots/add_user.png  "User Create")
 
-![User Edit and Download Config](https://google.com  "User Edit and Download Config")
+![User Edit and Download Config](https://github.com/pyhp2017/Django-OpenVpn-Maker/blob/main/screenshots/edit_user.png  "User Edit and Download Config")
